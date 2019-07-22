@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="ProfilePicTest" size="5.500000 5.500000" />
+    <ImageTarget name="Profile3" size="5.000000 5.000000" />
+    <ImageTarget name="Profile2" size="5.000000 5.000000" />
+    <ImageTarget name="Profile" size="5.000000 5.000000" />
   </Tracking>
 </QCARConfig>
